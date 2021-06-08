@@ -1,6 +1,6 @@
 # second_app
 
-A new Flutter project to test for Humayun again.
+A new Flutter project.
 
 ## Getting Started
 
